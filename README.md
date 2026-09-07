@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rayan Arasamohan</h1>
 <h3 align="center">C++/C# Game Developper</h3>
 
-- 🔭 I’m currently working on [Atsugami](https://github.com/Malukker/CouchGameTeam5) and [Self Made Engine](https://github.com/elilanrayan/SoloEngine.git)
+- 🔭 I’m currently working on [Self Made Engine](https://github.com/elilanrayan/SoloEngine.git)
 
-- 🌱 I’m currently learning **Maths/C++/C#/UE/Unity/IT**
+- 🌱 I’m currently learning **Maths/C++/C#/UE/Unity/Computer Science**
 
 - 👨‍💻 All of my projects are available at [https://rayan-arasa.myportfolio.com/](https://rayan-arasa.myportfolio.com/)
 
